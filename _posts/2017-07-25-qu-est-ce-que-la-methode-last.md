@@ -74,6 +74,6 @@ Sans rentrer dans les détails techniques, Scrum permet d'envisager la réalisat
 
 Si Snowflake est adapté pour l'écriture d'un roman, on ne peut s'en contenter pour se raconter l'histoire de sa vie, sa vie durant. L'écriture d'un roman donne un terme défini dans le temps : même si aucune date n'est fixée, le nombre d'étapes est déterminé d'avance, sauf accident. Ainsi, s'il y a de larges zones d'ombre autorisés au début du projet, celles-ci seront levées sans que jamais la perspective ne change.
 
-### Synthèse ?
+### Synthèse&nbsp;?
 
-D'un certain point de vue, LAST se pose donc comme une tentative de synthèse de Scrum et de Snowflake&nbsp;: à Scrum, il s'agit d'apporter le storytelling et l'écriture&nbsp; à Snowflake, la perspective indéterminée etl'adaptabilité.
+D'un certain point de vue, LAST se pose donc comme une tentative de synthèse de Scrum et de Snowflake&nbsp;: à Scrum, il s'agit d'apporter le storytelling et l'écriture&nbsp; à Snowflake, la perspective indéterminée etl'adaptabilité. Cela dit, je ne m'obligerai pas, par la suite, à préciser ce qui vient de l'une ou de l'autre méthode. Je ne le ferai peut-être à l'occasion, en y passant, mais cela n'aura rien de systématique.
