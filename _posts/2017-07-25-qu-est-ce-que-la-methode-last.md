@@ -64,4 +64,16 @@ Snowflake a particulièrement attiré mon attention dans ce cadre, tout d'abord 
 
 #### Qu'est-ce que c'est ?
 
+Scrum est une méthodologie de gestion de projet venue du monde du logiciel. Le but est de développer le meilleur logiciel possible tout en permettant de l'utiliser le plus vite possible. Pour y parvenir, la vie du projet est structurée en étapes, appelées _sprints_, d'environ un mois, à l'issue de chacune desquelles une version utilisable du logiciel est livrée. Les retours des utilisateurs serviront à améliorer le logiciel lors d'un prochain sprint. Les contraintes sont ainsi définies de manière fluctuante en intégrant continuellement les retours d'expérience des utilisateurs. D'un autre côté, il n'est pas nécessaire d'attendre le produit finalisé pour qu'il y ait un retour sur investissement. Par ailleurs, l'équipe est relativement réduite, idéalement six à huit personnes, structurée autour du _Scrum Master_, dont la fonction est de donner le maximum de liberté à chacun pour la réalisation de ses tâches, tout en entretenant la motivation.
+
+Scrum définit plusieurs étapes, avant le lancement du projet ainsi qu'à l'intérieur de chaque sprint, mais ne prévoit pas de terminaison. Le projet s'arrête lorsque le commanditaire estime que le logiciel est parvenu à un état tel que l'investissement nécessaire à la poursuite de son développement se révèle trop coûteux relativement aux bénéfices attendus.
+
 #### Pourquoi s'inspirer de cette méthode de gestion de projet ?
+
+Sans rentrer dans les détails techniques, Scrum permet d'envisager la réalisation d'un projet sans fin déterminée, aux exigences mouvantes, tout en étant rigoureux et motivé durant le déroulement d'une étape. Il permet de constater les progrès, tout en autorisant les changements de perspective fréquents. Il permet l'adaptation au changement, le structure, mais sans l'entraver.
+
+Si Snowflake est adapté pour l'écriture d'un roman, on ne peut s'en contenter pour se raconter l'histoire de sa vie, sa vie durant. L'écriture d'un roman donne un terme défini dans le temps : même si aucune date n'est fixée, le nombre d'étapes est déterminé d'avance, sauf accident. Ainsi, s'il y a de larges zones d'ombre autorisés au début du projet, celles-ci seront levées sans que jamais la perspective ne change.
+
+### Synthèse ?
+
+D'un certain point de vue, LAST se pose donc comme une tentative de synthèse de Scrum et de Snowflake&nbsp;: à Scrum, il s'agit d'apporter le storytelling et l'écriture&nbsp; à Snowflake, la perspective indéterminée etl'adaptabilité.
