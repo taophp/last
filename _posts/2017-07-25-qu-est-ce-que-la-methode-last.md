@@ -1,7 +1,10 @@
 ---
 layout: post
-title:  "Qu'est-ce que la méthode LAST ?"
+title:  "1. Qu'est-ce que la méthode LAST ?"
 date:   2017-07-25 16:30:10 +0200
+img: img/192057729_938f817646_b.jpg
+imgSrc: <a href="https://www.flickr.com/photos/watz/192057729">Flickr<:a>
+imgAuthor: TODO
 ---
 
 ## Idée
@@ -18,7 +21,7 @@ D'une façon générale, nous n'aborderons ici les aspects théoriques de la que
 
 Nous n'allons pas réinventer la roue. Bien des méthodologies pour réaliser ceci ou cela existent, et permettent d'atteindre des résultats satisfaisants. La méthode LAST s'inspire de deux d'entre elles&nbsp;: la méthode Snowflake et la méthode [Scrum](https://fr.wikipedia.org/wiki/Scrum_(Boite_%C3%A0_outils)).
 
-Snowflake est une méhode d'écriture d'un roman. Comme toute méthode, elle ne permet pas d'acquérir de talent, mais elle vous aide à structurer vos actions pour que parveniez au bout de votre entreprise&nbsp;: écrire un roman. Si vous n'avez aucune aptitude par ailleurs, il sera mal écrit, mais, au moins, vous l'aurez terminé.
+Snowflake est une méhode d'écriture d'un roman. Comme toute méthode, elle ne permet pas d'acquérir de talent, mais elle t'aide à structurer tes actions pour que parvenir au bout de ton entreprise&nbsp;: écrire un roman. Si tu n'as aucune aptitude par ailleurs, il sera mal écrit, mais, au moins, tu l'aura terminé.
 
 Scrum est une méthode de gestion de projet venue du monde du développement de logiciels. Il a été conçu pour renforcer la motivation d'une petite équipe, obtenir le meilleur logiciel possible, permettre des changements profonds et fréquents dans la définition des objectifs, et avoir un retour sur investissement dès les premières étapes du projet. Ainsi, Scrum permet d'atteindre des objectifs intermédiaires avec efficacité, avec un objectif final fluctuant, dans un environnement mouvant.
 
@@ -26,7 +29,7 @@ Scrum est une méthode de gestion de projet venue du monde du développement de 
 
 #### Qu'est-ce que c'est ?
 
-Si vous avez déjà tenté d'écrire un roman, ou même simplement un texte d'une certaine ampleur, il se peut que vous ayez déjà acquis une intuition de ce que la méthode Snowflake veut formaliser. Pour faire simple, il y a deux façons d'aborder l'écriture d'un roman. La première consiste à se jeter à l'eau et à écrire le texte en commençant par le début et de ne pas s'arrêter avant la fin, en étant immédiatement aussi proche que possible du texte fini. Cette approche, naïve, est le plus souvent vouée à l'échec pour diverses raisons. Si vous avez un doute, essayez, vous ne tarderez pas à comprendre.
+Si tu as déjà tenté d'écrire un roman, ou même simplement un texte d'une certaine ampleur, il se peut que tu aies déjà acquis une intuition de ce que la méthode Snowflake veut formaliser. Pour faire simple, il y a deux façons d'aborder l'écriture d'un roman. La première consiste à se jeter à l'eau et à écrire le texte en commençant par le début et de ne pas s'arrêter avant la fin, en étant immédiatement aussi proche que possible du texte fini. Cette approche, naïve, est le plus souvent vouée à l'échec pour diverses raisons. Si tu as un doute, essaye, tu ne tarderas pas à comprendre.
 
 La seconde façon consiste structurer son écriture, ce qui se fait le plus souvent en écrivant d'autres documents que le texte principal : synopsis, fiches de personnage ou de lieu, chronologie, diagramme d'intrigues, ou tout ce qu'on voudra. &Agrave; partir de là, il y a plusieurs écoles et chacun doit adapter cette production en fonction de ses propres besoins.
 
@@ -37,22 +40,22 @@ La méthode Snowflake suite cette démarche. Son idée centrale consiste à dég
 
 Snowflake décrit ainsi plusieurs étapes&nbsp;:
 
-1. écrivez une phrase qui résume l'idée de votre roman
-2. décrivez en un paragraphe de trois à cinq phrases pas trop longues le déroulement de votre roman,
-3. reprenez chacune des phrases de l'étape 2, et détaillez chacune en un paragraphe de quelques phrases,
-4. reprenez votre travail de l'étape 3 et détaillez chaque paragraphe en une page,
+1. écris une phrase qui résume l'idée de ton roman
+2. décris en un paragraphe de trois à cinq phrases pas trop longues le déroulement de ton roman,
+3. reprend chacune des phrases de l'étape 2, et détaille chacune en un paragraphe de quelques phrases,
+4. reprend ton travail de l'étape 3 et détaillez chaque paragraphe en une page,
 5. etc.
 
-Ainsi, chaque étape vous rapproche de votre objectif. Mais, mieux que cela, le résultat de chaque étape se veut exploitable :
+Ainsi, chaque étape te rapproche de ton objectif. Mais, mieux que cela, le résultat de chaque étape se veut exploitable :
 
-* à l'étape 1, vous disposez d'une phrase que vous pourrez placer dans vos conversations pour présenter votre projet
-* à l'étape 2, vous aurez écrit un paragraphe qui trouvera naturellement sa place dans votre lettre d'accompagnement présentant votre manuscrit à vos éventuels éditeurs,
-* à l'étape 3, vous obtenez un résumé utilisable comme quatrième de couverture,
-* à l'étape 4, vous avez un synopsis que vous pourrez utiliser pour présenter votre projet bien avant qu'il soit abouti, pour prospecter les éditeurs en amont.
+* à l'étape 1, tu disposes d'une phrase que tu pourras placer dans tes conversations pour parler de ton projet
+* à l'étape 2, tu auras écrit un paragraphe qui trouvera naturellement sa place dans ta lettre d'accompagnement présentant ton manuscrit à tes éventuels éditeurs,
+* à l'étape 3, tu obtiens un résumé utilisable comme quatrième de couverture,
+* à l'étape 4, tu as un synopsis que tu pourras utiliser pour présenter ton projet bien avant qu'il soit abouti, pour prospecter les éditeurs en amont.
 
-De cette façon, votre travail est valorisable à chaque étape.
+De cette façon, ton travail est valorisable à chaque étape.
 
-Bien sûr, les choses sont plus complexes, mais vous en savez assez pour comprendre la méthode LAST. Si vous avez désirez plus de détails, Snowflake est largement documentée sur Internet.
+Bien sûr, les choses sont plus complexes, mais tu en sais assez pour comprendre la méthode LAST. Si tu désires plus de détails, Snowflake est largement documentée sur Internet.
 
 #### Pourquoi s'inspirer de cette méthode d'écriture de roman ?
 
